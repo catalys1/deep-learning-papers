@@ -6,30 +6,36 @@
 <h1 id="paper-index">Paper Index</h1>
 <h2 id="table-of-contents">Table of Contents</h2>
 <ul>
-<li><a href="#segmentation">Segmentation</a></li>
-<li><a href="#co-segmentation">Co-Segmentation</a></li>
-<li><a href="#network-architecture">Network Architecture</a></li>
-<li><a href="#data-augmentation">Data Augmentation</a></li>
-<li><a href="#interactive-segmentation">Interactive Segmentation</a></li>
-<li><a href="#unsupervised-learning">Unsupervised Learning</a></li>
-</ul>
-<h3 id="segmentation">Segmentation</h3>
-<p><a href="#summaries">Summaries</a></p>
+<li><a href="#network-architecture">Network Architecture</a>
 <ul>
-<li>Enriching Visual Knowledge Bases via Object Discovery and Segmentation <a href="https://ieeexplore.ieee.org/document/6909658/">[paper]</a></li>
-<li>Segmentation-Aware Convolutional Neural Networks <a href="https://arxiv.org/abs/1708.04607">[paper]</a></li>
+<li>[Summaries]</li>
 </ul>
-<h3 id="co-segmentation">Co-Segmentation</h3>
+</li>
+<li><a href="#data-augmentation">Data Augmentation</a>
 <ul>
-<li>Deep Object Co-Segmentation <a href="https://arxiv.org/abs/1804.06423">[paper]</a></li>
-<li>Co-Segmentation by Composition <a href="https://ieeexplore.ieee.org/document/6751271/">[paper]</a></li>
-<li>Object Co-Segmentation via Weakly Supervised Data Fusion <a href="https://www.sciencedirect.com/science/article/pii/S1077314216301825">[paper]</a></li>
-<li>Unsupervised Image Co-Segmentation via Guidance of Simple Images <a href="https://www.sciencedirect.com/science/article/pii/S0925231217316272">[paper]</a></li>
-<li>Object co-segmentation via salient and common regions discovery <a href="https://www.sciencedirect.com/science/article/pii/S0925231215006116">[paper]</a></li>
-<li>Complementary saliency driven co-segmentation with region searching and Hierarchical constraint <a href="https://www.sciencedirect.com/science/article/pii/S0020025516305990">[paper]</a></li>
-<li>Cosegmentation of multiple image groups <a href="https://www.sciencedirect.com/science/article/pii/S1077314216000497">[paper]</a></li>
-<li>Multi-task ranking SVM for image cosegmentation <a href="https://www.sciencedirect.com/science/article/pii/S0925231217305933">[paper]</a></li>
-<li>Noise-aware co-segmentation with local and global priors <a href="https://www.sciencedirect.com/science/article/pii/S0925231218301474">[paper]</a></li>
+<li>[Summaries]</li>
+</ul>
+</li>
+<li><a href="#unsupervised-learning">Unsupervised Learning</a>
+<ul>
+<li>[Summaries]</li>
+</ul>
+</li>
+<li><a href="#segmentation">Segmentation</a>
+<ul>
+<li>[Summaries]</li>
+</ul>
+</li>
+<li><a href="#co-segmentation">Co-Segmentation</a>
+<ul>
+<li>[Summaries]</li>
+</ul>
+</li>
+<li><a href="#interactive-segmentation">Interactive Segmentation</a>
+<ul>
+<li>[Summaries]</li>
+</ul>
+</li>
 </ul>
 <h3 id="network-architecture">Network Architecture</h3>
 <ul>
@@ -59,6 +65,30 @@
 <li>Random Erasing Data Augmentation <a href="https://arxiv.org/abs/1708.04896">[paper]</a></li>
 <li>Parallel Grid Pooling for Data Augmentation <a href="https://arxiv.org/abs/1803.11370">[paper]</a></li>
 </ul>
+<h3 id="unsupervised-learning">Unsupervised Learning</h3>
+<ul>
+<li>Learning Visual Groups from Co-Occurrences in Space and Time <a href="https://arxiv.org/abs/1511.06811">[paper]</a></li>
+<li>Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Split-Brain_Autoencoders_Unsupervised_CVPR_2017_paper.html">[paper]</a></li>
+<li>Colorization as a Proxy Task for Visual Understanding <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Larsson_Colorization_as_a_CVPR_2017_paper.html">[paper]</a></li>
+<li>Unsupervised Learning by Predicting Noise <a href="http://proceedings.mlr.press/v70/bojanowski17a.html">[paper]</a></li>
+</ul>
+<h3 id="segmentation">Segmentation</h3>
+<ul>
+<li>Enriching Visual Knowledge Bases via Object Discovery and Segmentation <a href="https://ieeexplore.ieee.org/document/6909658/">[paper]</a></li>
+<li>Segmentation-Aware Convolutional Neural Networks <a href="https://arxiv.org/abs/1708.04607">[paper]</a></li>
+</ul>
+<h3 id="co-segmentation">Co-Segmentation</h3>
+<ul>
+<li>Deep Object Co-Segmentation <a href="https://arxiv.org/abs/1804.06423">[paper]</a></li>
+<li>Co-Segmentation by Composition <a href="https://ieeexplore.ieee.org/document/6751271/">[paper]</a></li>
+<li>Object Co-Segmentation via Weakly Supervised Data Fusion <a href="https://www.sciencedirect.com/science/article/pii/S1077314216301825">[paper]</a></li>
+<li>Unsupervised Image Co-Segmentation via Guidance of Simple Images <a href="https://www.sciencedirect.com/science/article/pii/S0925231217316272">[paper]</a></li>
+<li>Object co-segmentation via salient and common regions discovery <a href="https://www.sciencedirect.com/science/article/pii/S0925231215006116">[paper]</a></li>
+<li>Complementary saliency driven co-segmentation with region searching and Hierarchical constraint <a href="https://www.sciencedirect.com/science/article/pii/S0020025516305990">[paper]</a></li>
+<li>Cosegmentation of multiple image groups <a href="https://www.sciencedirect.com/science/article/pii/S1077314216000497">[paper]</a></li>
+<li>Multi-task ranking SVM for image cosegmentation <a href="https://www.sciencedirect.com/science/article/pii/S0925231217305933">[paper]</a></li>
+<li>Noise-aware co-segmentation with local and global priors <a href="https://www.sciencedirect.com/science/article/pii/S0925231218301474">[paper]</a></li>
+</ul>
 <h3 id="interactive-segmentation">Interactive Segmentation</h3>
 <ul>
 <li>Efficient Interactive Annotation of Segmentation Datasets With Polygon-RNN++ <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/Acuna_Efficient_Interactive_Annotation_CVPR_2018_paper.pdf">[paper]</a></li>
@@ -66,12 +96,5 @@
 <li>Interactive Image Segmentation With Latent Diversity <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/">[paper]</a></li>
 <li>ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation <a href="http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_ScribbleSup_Scribble-Supervised_Convolutional_CVPR_2016_paper.pdf">[paper]</a></li>
 <li>Active Image Segmentation Propagation <a href="http://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Active_Image_Segmentation_CVPR_2016_paper.pdf">[paper]</a></li>
-</ul>
-<h3 id="unsupervised-learning">Unsupervised Learning</h3>
-<ul>
-<li>Learning Visual Groups from Co-Occurrences in Space and Time <a href="https://arxiv.org/abs/1511.06811">[paper]</a></li>
-<li>Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Split-Brain_Autoencoders_Unsupervised_CVPR_2017_paper.html">[paper]</a></li>
-<li>Colorization as a Proxy Task for Visual Understanding <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Larsson_Colorization_as_a_CVPR_2017_paper.html">[paper]</a></li>
-<li>Unsupervised Learning by Predicting Noise <a href="http://proceedings.mlr.press/v70/bojanowski17a.html">[paper]</a></li>
 </ul>
 
