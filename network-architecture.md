@@ -6,64 +6,64 @@
 <h1 id="network-architecture-paper-summaries">Network Architecture Paper Summaries</h1>
 <h3 id="table-of-contents">Table of Contents</h3>
 <ul>
-<li>(ResNeXt) Aggregated Residual Transformations for Deep Neural Networks
+<li><strong>(ResNeXt) Aggregated Residual Transformations for Deep Neural Networks</strong>
 <ul>
 <li><a href="https://arxiv.org/abs/1611.05431">[paper]</a></li>
 </ul>
 </li>
-<li>Wide Residual Networks
+<li><strong>Wide Residual Networks</strong>
 <ul>
 <li><a href="#wide-residual-networks">[summary]</a> <a href="https://arxiv.org/abs/1605.07146">[paper]</a></li>
 </ul>
 </li>
-<li>Dilated Residual Networks
+<li><strong>Dilated Residual Networks</strong>
 <ul>
 <li><a href="#dilated-residual-networks">[summary]</a> <a href="https://arxiv.org/abs/1705.09914">[paper]</a></li>
 </ul>
 </li>
-<li>Reversible Residual Networks
+<li><strong>Reversible Residual Networks</strong>
 <ul>
 <li><a href="https://arxiv.org/abs/1707.04585">[paper]</a></li>
 </ul>
 </li>
-<li>Fractal Networks
+<li>**Fractal Networks
 <ul>
 <li><a href="https://arxiv.org/abs/1605.07648">[paper]</a></li>
 </ul>
 </li>
-<li>Beyond Finite Layer Neural Networks
+<li><strong>Beyond Finite Layer Neural Networks</strong>
 <ul>
 <li><a href="https://arxiv.org/abs/1710.10121">[paper]</a></li>
 </ul>
 </li>
-<li>Feature Pyramid Networks
+<li><strong>Feature Pyramid Networks</strong>
 <ul>
 <li><a href="https://arxiv.org/abs/1612.03144">[paper]</a></li>
 </ul>
 </li>
-<li>Squeeze-and-Excitation Networks
+<li><strong>Squeeze-and-Excitation Networks</strong>
 <ul>
 <li><a href="#squeeze-and-excitation-nets">[summary]</a> <a href="https://arxiv.org/abs/1709.01507">[paper]</a></li>
 </ul>
 </li>
-<li>Deep Layer Aggregation
+<li><strong>Deep Layer Aggregation</strong>
 <ul>
 <li><a href="#deep-layer-aggregation">[summary]</a> <a href="https://arxiv.org/abs/1707.06484">[paper]</a></li>
 </ul>
 </li>
-<li>Interleaved Group Convolutions
+<li><strong>Interleaved Group Convolutions</strong>
 <ul>
 <li><a href="#interleaved-group-convolutions">[summary]</a> <a href="https://arxiv.org/abs/1707.02725">[paper]</a></li>
 </ul>
 </li>
 <li>Other:
 <ul>
-<li>Introspective Classification with Convolutional Nets
+<li><strong>Introspective Classification with Convolutional Nets</strong>
 <ul>
 <li><a href="https://arxiv.org/abs/1704.07816">[paper]</a></li>
 </ul>
 </li>
-<li>Wasserstein Introspective Neural Networks
+<li><strong>Wasserstein Introspective Neural Networks</strong>
 <ul>
 <li><a href="https://arxiv.org/abs/1711.08875">[paper]</a></li>
 </ul>
