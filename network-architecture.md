@@ -26,7 +26,7 @@
 <li><a href="https://arxiv.org/abs/1707.04585">[paper]</a></li>
 </ul>
 </li>
-<li>**Fractal Networks
+<li><strong>Fractal Networks</strong>
 <ul>
 <li><a href="https://arxiv.org/abs/1605.07648">[paper]</a></li>
 </ul>
