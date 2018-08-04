@@ -3,7 +3,7 @@
 
 ---
 
-<h1 id="fine-grained-recognition">Fine Grained Recognition</h1>
+<h1 id="fine-grained-recognition-paper-summaries">Fine Grained Recognition Paper Summaries</h1>
 <h3 id="table-of-contents">Table of Contents</h3>
 <ul>
 <li><strong>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</strong>
