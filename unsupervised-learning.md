@@ -6,22 +6,17 @@
 <h1 id="unsupervised-learning-paper-summaries">Unsupervised Learning Paper Summaries</h1>
 <h3 id="table-of-contents">Table of Contents</h3>
 <ul>
-<li><strong>Learning Visual Groups from Co-Occurrences in Space and Time</strong>
-<ul>
-<li><a href="https://arxiv.org/abs/1511.06811">[paper]</a></li>
-</ul>
-</li>
-<li><strong>Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction</strong>
+<li>Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction
 <ul>
 <li><a href="#split-brain-autoencoders-unsupervised-learning-by-cross-channel-prediction">[summary]</a> <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Split-Brain_Autoencoders_Unsupervised_CVPR_2017_paper.html">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Colorization as a Proxy Task for Visual Understanding</strong>
+<li>Colorization as a Proxy Task for Visual Understanding
 <ul>
 <li><a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Larsson_Colorization_as_a_CVPR_2017_paper.html">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Unsupervised Learning by Predicting Noise</strong>
+<li>Unsupervised Learning by Predicting Noise
 <ul>
 <li><a href="#unsupervised-learning-by-predicting-noise">[summary]</a> <a href="http://proceedings.mlr.press/v70/bojanowski17a.html">[paper]</a></li>
 </ul>
