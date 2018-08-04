@@ -6,12 +6,13 @@
 <h1 id="fine-grained-recognition-paper-summaries">Fine Grained Recognition Paper Summaries</h1>
 <h3 id="table-of-contents">Table of Contents</h3>
 <ul>
-<li><strong>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</strong>
+<li>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning
 <ul>
 <li><a href="#large-scale-fine-grained-categorization-and-domain-specific-transfer-learning">[summary]</a> <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Cui_Large_Scale_Fine-Grained_CVPR_2018_paper.html">[paper]</a></li>
 </ul>
 </li>
 </ul>
+<hr>
 <h2 id="large-scale-fine-grained-categorization-and-domain-specific-transfer-learning">Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning</h2>
 <p>This paper studies the effect of transfer learning on fine-grained classification datasets. They do a couple of interesting things:</p>
 <ul>
