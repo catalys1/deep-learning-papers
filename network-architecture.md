@@ -6,64 +6,64 @@
 <h1 id="network-architecture-paper-summaries">Network Architecture Paper Summaries</h1>
 <h3 id="table-of-contents">Table of Contents</h3>
 <ul>
-<li><strong>(ResNeXt) Aggregated Residual Transformations for Deep Neural Networks</strong>
+<li>(ResNeXt) Aggregated Residual Transformations for Deep Neural Networks
 <ul>
 <li><a href="https://arxiv.org/abs/1611.05431">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Wide Residual Networks</strong>
+<li>Wide Residual Networks
 <ul>
 <li><a href="#wide-residual-networks">[summary]</a> <a href="https://arxiv.org/abs/1605.07146">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Dilated Residual Networks</strong>
+<li>Dilated Residual Networks
 <ul>
 <li><a href="#dilated-residual-networks">[summary]</a> <a href="https://arxiv.org/abs/1705.09914">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Reversible Residual Networks</strong>
+<li>Reversible Residual Networks
 <ul>
 <li><a href="https://arxiv.org/abs/1707.04585">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Fractal Networks</strong>
+<li>Fractal Networks
 <ul>
 <li><a href="https://arxiv.org/abs/1605.07648">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Beyond Finite Layer Neural Networks</strong>
+<li>Beyond Finite Layer Neural Networks
 <ul>
 <li><a href="https://arxiv.org/abs/1710.10121">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Feature Pyramid Networks</strong>
+<li>Feature Pyramid Networks
 <ul>
 <li><a href="https://arxiv.org/abs/1612.03144">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Squeeze-and-Excitation Networks</strong>
+<li>Squeeze-and-Excitation Networks
 <ul>
 <li><a href="#squeeze-and-excitation-nets">[summary]</a> <a href="https://arxiv.org/abs/1709.01507">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Deep Layer Aggregation</strong>
+<li>Deep Layer Aggregation
 <ul>
 <li><a href="#deep-layer-aggregation">[summary]</a> <a href="https://arxiv.org/abs/1707.06484">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Interleaved Group Convolutions</strong>
+<li>Interleaved Group Convolutions
 <ul>
 <li><a href="#interleaved-group-convolutions">[summary]</a> <a href="https://arxiv.org/abs/1707.02725">[paper]</a></li>
 </ul>
 </li>
 <li>Other:
 <ul>
-<li><strong>Introspective Classification with Convolutional Nets</strong>
+<li>Introspective Classification with Convolutional Nets
 <ul>
 <li><a href="https://arxiv.org/abs/1704.07816">[paper]</a></li>
 </ul>
 </li>
-<li><strong>Wasserstein Introspective Neural Networks</strong>
+<li>Wasserstein Introspective Neural Networks
 <ul>
 <li><a href="https://arxiv.org/abs/1711.08875">[paper]</a></li>
 </ul>
@@ -71,6 +71,7 @@
 </ul>
 </li>
 </ul>
+<hr>
 <h2 id="wide-residual-networks">Wide Residual Networks</h2>
 <p>This paper investigates the effect of different types of residual-block networks. In particular, they are interested in the effect of “widening” the blocks – increasing the number of convolution feature channels. They do a bunch of experiments with different architectures on several datasets (CIFAR10/100, SVHN, and ImageNet). They show that by increasing the width on residual blocks, they can perform on par or better than ResNets that have roughly the same number of parameters but are significantly deeper. Furthermore, the wide networks are much faster to train, because they make better use of GPU parallelization. They get their results without using the bottleneck architecture prevalent in deep ResNets. They also experiment with adding dropout between convolutions in a block, and show that it leads to better generalization. They attribute this to helping with the overfit introduced by BatchNorm.</p>
 <p><strong>Thoughts</strong><br>
