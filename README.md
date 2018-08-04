@@ -42,6 +42,7 @@
 </ul>
 </li>
 </ul>
+<hr>
 <h3 id="network-architecture">Network Architecture</h3>
 <ul>
 <li>(ResNeXt) Aggregated Residual Transformations for Deep Neural Networks <a href="https://arxiv.org/abs/1611.05431">[paper]</a></li>
