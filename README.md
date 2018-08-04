@@ -8,17 +8,17 @@
 <ul>
 <li><a href="#network-architecture">Network Architecture</a>
 <ul>
-<li>[Summaries]</li>
+<li><a href="https://github.com/catalys1/deep-learning-papers/blob/master/network-architecture.md">Summaries</a></li>
 </ul>
 </li>
 <li><a href="#data-augmentation">Data Augmentation</a>
 <ul>
-<li>[Summaries]</li>
+<li><a href="https://github.com/catalys1/deep-learning-papers/blob/master/data-augmentation.md">Summaries</a></li>
 </ul>
 </li>
 <li><a href="#unsupervised-learning">Unsupervised Learning</a>
 <ul>
-<li>[Summaries]</li>
+<li><a href="https://github.com/catalys1/deep-learning-papers/blob/master/unsupervised-learning.md">Summaries</a></li>
 </ul>
 </li>
 <li><a href="#segmentation">Segmentation</a>
@@ -28,12 +28,17 @@
 </li>
 <li><a href="#co-segmentation">Co-Segmentation</a>
 <ul>
-<li>[Summaries]</li>
+<li><a href="https://github.com/catalys1/deep-learning-papers/blob/master/co-segmentation.md">Summaries</a></li>
 </ul>
 </li>
 <li><a href="#interactive-segmentation">Interactive Segmentation</a>
 <ul>
 <li>[Summaries]</li>
+</ul>
+</li>
+<li><a href="#fine-grained-recognition">Fine Grained Recognition</a>
+<ul>
+<li><a href="https://github.com/catalys1/deep-learning-papers/blob/master/fine-grained.md">Summaries</a></li>
 </ul>
 </li>
 </ul>
@@ -67,7 +72,6 @@
 </ul>
 <h3 id="unsupervised-learning">Unsupervised Learning</h3>
 <ul>
-<li>Learning Visual Groups from Co-Occurrences in Space and Time <a href="https://arxiv.org/abs/1511.06811">[paper]</a></li>
 <li>Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Split-Brain_Autoencoders_Unsupervised_CVPR_2017_paper.html">[paper]</a></li>
 <li>Colorization as a Proxy Task for Visual Understanding <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Larsson_Colorization_as_a_CVPR_2017_paper.html">[paper]</a></li>
 <li>Unsupervised Learning by Predicting Noise <a href="http://proceedings.mlr.press/v70/bojanowski17a.html">[paper]</a></li>
@@ -96,5 +100,9 @@
 <li>Interactive Image Segmentation With Latent Diversity <a href="http://openaccess.thecvf.com/content_cvpr_2018/papers/">[paper]</a></li>
 <li>ScribbleSup: Scribble-Supervised Convolutional Networks for Semantic Segmentation <a href="http://openaccess.thecvf.com/content_cvpr_2016/papers/Lin_ScribbleSup_Scribble-Supervised_Convolutional_CVPR_2016_paper.pdf">[paper]</a></li>
 <li>Active Image Segmentation Propagation <a href="http://openaccess.thecvf.com/content_cvpr_2016/papers/Jain_Active_Image_Segmentation_CVPR_2016_paper.pdf">[paper]</a></li>
+</ul>
+<h3 id="fine-grained-recognition">Fine Grained Recognition</h3>
+<ul>
+<li>Large Scale Fine-Grained Categorization and Domain-Specific Transfer Learning <a href="http://openaccess.thecvf.com/content_cvpr_2018/html/Cui_Large_Scale_Fine-Grained_CVPR_2018_paper.html">[paper]</a></li>
 </ul>
 
