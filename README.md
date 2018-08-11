@@ -76,6 +76,7 @@
 <li>Split-Brain Autoencoders: Unsupervised Learning by Cross-Channel Prediction <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Zhang_Split-Brain_Autoencoders_Unsupervised_CVPR_2017_paper.html">[paper]</a></li>
 <li>Colorization as a Proxy Task for Visual Understanding <a href="http://openaccess.thecvf.com/content_cvpr_2017/html/Larsson_Colorization_as_a_CVPR_2017_paper.html">[paper]</a></li>
 <li>Unsupervised Learning by Predicting Noise <a href="http://proceedings.mlr.press/v70/bojanowski17a.html">[paper]</a></li>
+<li>Dimensionality’s Blessing: Clustering Images by Underlying Distribution <a href="https://arxiv.org/abs/1804.02624">[paper]</a></li>
 </ul>
 <h3 id="segmentation">Segmentation</h3>
 <ul>
